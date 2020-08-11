@@ -54,3 +54,5 @@ The function must conform to 21's norm.
 The function cannot leak. All errors must be handled carefully. In no way can the function quit in an unexpected manner (Segmentation fault, bus error, double free, etc).  
 Allowed functions are `read`, `malloc` and `free`. Everything else is forbidden.
 ***
+
+Special thanks to sapril for helping with the bonus part
